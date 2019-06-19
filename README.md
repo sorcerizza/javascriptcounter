@@ -1,9 +1,5 @@
 
 
-## Usage
-
-Use to add/edit/delete tasks without persistence (no backend).
-
 ## Contributing
 
 1. Fork it!
