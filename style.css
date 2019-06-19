@@ -1,0 +1,23 @@
+div#yaz{
+	text-align: center;
+	margin top: 160px;
+}
+h1{
+	text-align: center;
+	margin-top: 160px;
+}
+input#count.form-control{
+	width: 210px;
+	text-align: center;
+	margin-left: 409px;
+
+}
+body{
+	text-align: center;
+	background-image:url(images/bg2.jpg); 
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Aclonica', sans-serif;
+
+}
